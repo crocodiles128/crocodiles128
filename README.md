@@ -76,5 +76,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crocodiles128&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://widgets.vendicated.dev/user?id=709879738734215189&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&)" height="40" alt="php logo"  />
