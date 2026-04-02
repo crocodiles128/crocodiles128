@@ -1,6 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Lucas%20Jos%C3%A9%20Campos%20daRocha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas&descSize=18&descAlignY=55&textBg=false"/>
 
 ###
 
@@ -52,7 +50,7 @@
 
 ###
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Lucas%20Jos%C3%A9%20Campos%20daRocha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas&descSize=18&descAlignY=55&textBg=false"/>
+
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=crocodiles128">
