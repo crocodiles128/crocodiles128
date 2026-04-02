@@ -77,11 +77,4 @@
   </a>
 </p>
 
-<iframe
-    title="Discord user embed"
-    width="340"
-    height="120"
-    frameborder="0"
-    sandbox="allow-scripts"
-    src="https://widgets.vendicated.dev/user?id=709879738734215189&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&"
-></iframe>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://widgets.vendicated.dev/user?id=709879738734215189&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&)" height="40" alt="php logo"  />
