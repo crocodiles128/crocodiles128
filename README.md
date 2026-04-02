@@ -52,46 +52,32 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crocodiles128&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crocodiles128&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Lucas%20Jos%C3%A9%20Campos%20daRocha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas&descSize=18&descAlignY=55&textBg=false"/>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crocodiles128&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crocodiles128&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=crocodiles128.crocodiles128&"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crocodiles128/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=crocodiles128">
+    <img src="https://komarev.com/ghpvc/?username=crocodiles128&label=Profile%20views&color=00FFFF&style=flat-square" alt="crocodiles128's profile views" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crocodiles128/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crocodiles128/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@crocodiles128/2" alt="Medium post 3"  />
-  </a>
-</div>
+</p>
 
-###
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/crocodiles128">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crocodiles128&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="crocodiles128's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=crocodiles128&theme=radical&hide_border=true&cache_seconds=86400" alt="crocodiles128's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=crocodiles128&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lucas José Campos daRocha's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/crocodiles128">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crocodiles128&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
