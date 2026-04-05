@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Lucas%20Jos%C3%A9%20Campos%20daRocha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Lucas%20Jos%C3%A9%20Campos%20da%20Rocha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas&descSize=18&descAlignY=55&textBg=false"/>
 
 ###
 
